@@ -1,6 +1,6 @@
 # Vue 3 SSR with Webpack 4 HMR
 
-[Play with it right in the browser!](https://stackblitz.com/github/cyberap/vue3-ssr-webpack4-hmr)
+[Play with it right in the browser!](https://stackblitz.com/github/nusgnaf/vue3-ssr-webpack4-hmr)
 
 ## Features
 
